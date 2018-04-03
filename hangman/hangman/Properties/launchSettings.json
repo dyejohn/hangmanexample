@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "hangman": {
+      "commandName": "Project",
+      "commandLineArgs": "Supercalifragilisticexpialdocius"
+    }
+  }
+}

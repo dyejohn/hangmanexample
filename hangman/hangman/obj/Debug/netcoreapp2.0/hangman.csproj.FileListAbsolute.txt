@@ -1,0 +1,11 @@
+C:\dev\hangman\hangman\hangman\bin\Debug\netcoreapp2.0\hangman.deps.json
+C:\dev\hangman\hangman\hangman\bin\Debug\netcoreapp2.0\hangman.runtimeconfig.json
+C:\dev\hangman\hangman\hangman\bin\Debug\netcoreapp2.0\hangman.runtimeconfig.dev.json
+C:\dev\hangman\hangman\hangman\bin\Debug\netcoreapp2.0\hangman.dll
+C:\dev\hangman\hangman\hangman\bin\Debug\netcoreapp2.0\hangman.pdb
+C:\dev\hangman\hangman\hangman\obj\Debug\netcoreapp2.0\hangman.csprojResolveAssemblyReference.cache
+C:\dev\hangman\hangman\hangman\obj\Debug\netcoreapp2.0\hangman.csproj.CoreCompileInputs.cache
+C:\dev\hangman\hangman\hangman\obj\Debug\netcoreapp2.0\hangman.AssemblyInfoInputs.cache
+C:\dev\hangman\hangman\hangman\obj\Debug\netcoreapp2.0\hangman.AssemblyInfo.cs
+C:\dev\hangman\hangman\hangman\obj\Debug\netcoreapp2.0\hangman.dll
+C:\dev\hangman\hangman\hangman\obj\Debug\netcoreapp2.0\hangman.pdb
